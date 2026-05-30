@@ -1,0 +1,30 @@
+site_name: Component Integrity & Lifecycle Management (CILM)
+site_url: https://cilm-standard.com/
+
+theme:
+  name: material
+  palette:
+    primary: slate
+    accent: blue
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - toc.integrate
+
+copyright: >
+  CILM is an independent methodology and is not affiliated with or endorsed by SAE, IEEE, NIST, or any U.S. government agency.
+
+markdown_extensions:
+  - meta
+  - toc:
+      permalink: true
+  - attr_list
+  - md_in_html
+
+nav:
+  - Home: index.md
+  - Framework: framework.md
+  - Standards Alignment: standards-alignment.md
+  - Risk Intelligence: risk-intelligence.md
+  - U.S. Application: us-application.md
+  - About: about.md
