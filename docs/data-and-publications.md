@@ -18,4 +18,3 @@ This page serves as a technical reference index for CILM-related public material
 *   **CIRS Scoring Framework:** The Component Intelligence Risk Score (CIRS) is a 5-indicator weighted composite scoring system utilized to quantify supplier and supply chain risk. The framework results in a risk index ranging from 0.00 to 1.00.
 
 ---
-*Note: CILM is an independent methodology and is not affiliated with or endorsed by SAE, IEEE, NIST, or any U.S. government agency.*

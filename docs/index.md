@@ -22,4 +22,3 @@ The framework provides structured analytical models and operational workflows fo
 - **Verification Operations:** Structured approaches to lifecycle-level component verification.
 
 ---
-*Note: CILM is an independent methodology and is not affiliated with or endorsed by SAE, IEEE, NIST, or any U.S. government agency.*

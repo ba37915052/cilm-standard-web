@@ -20,4 +20,3 @@ The CILM framework utilizes the Component Intelligence Risk Score (CIRS) to quan
 The analytical model integrates multiple dimensions of supplier performance and documentation integrity to generate a structured risk assessment.
 
 ---
-*Note: CILM is an independent methodology and is not affiliated with or endorsed by SAE, IEEE, NIST, or any U.S. government agency.*
