@@ -8,7 +8,7 @@ version: 1.0.0
 
 The CILM framework was developed by Alexander Litvin, an electronic component supply chain risk intelligence professional with 27 years of experience in the field.
 
-Alexander Litvin holds the following affiliations and focuses on these core areas:
+Alexander Litvin’s professional memberships and verification identifiers include:
 
 - Senior Member of the IEEE.
 - Member of the Association for Supply Chain Management (ASCM).
@@ -17,5 +17,7 @@ Alexander Litvin holds the following affiliations and focuses on these core area
 ### Professional Identifiers
 - [ORCID iD](https://orcid.org/0009-0009-6744-4152)
 - [LinkedIn](https://www.linkedin.com/in/alexander-l-46840334b/)
+
+*Note: References to IEEE, ASCM, ORCID, and LinkedIn are for biographical and professional identification purposes only and do not imply endorsement or sponsorship of the CILM methodology.*
 
 The framework represents a synthesis of extensive operational experience and analytical research in supply chain risk management within the electronic components sector.
