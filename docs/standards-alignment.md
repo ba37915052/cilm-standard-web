@@ -1,6 +1,6 @@
 ---
 title: Standards Alignment and Verification Levels
-date: 2023-10-25
+date: 2026-05-30
 version: 1.0.0
 ---
 
@@ -14,7 +14,7 @@ CILM implements a tiered verification structure:
 
 *   **L1 (Basic Verification):** Documentation review, visual inspection, and preliminary provenance assessment.
 *   **L2 (Intermediate Verification):** Detailed analytical testing, electrical characterization, and lifecycle documentation validation.
-*   **L3 (Advanced Verification):** Comprehensive material analysis, destructive physical analysis (DPA), and advanced structural verification.
+*   **L3 (Advanced Verification):** Comprehensive material analysis, destructive physical analysis (DPA), and advanced structural verification (performed only when applicable and by qualified laboratories).
 
 ## Digital Component Passport (DCP) Architecture
 

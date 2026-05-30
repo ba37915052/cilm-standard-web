@@ -1,6 +1,6 @@
 ---
 title: CILM Framework Definition
-date: 2023-10-25
+date: 2026-05-30
 version: 1.0.0
 doi: 10.5281/zenodo.19657865
 ---
@@ -17,7 +17,7 @@ The CILM methodology is constructed around several interconnected domains:
 2.  **Lifecycle Documentation Verification:** Protocols for ensuring the integrity and provenance of component lifecycle records.
 3.  **Physical and Analytical Verification:** Guidelines aligned with established verification practices for component authenticity and integrity.
 
-The framework provides an operational infrastructure for implementing these domains systematically within procurement and supply chain management operations.
+The framework provides a public technical repository and methodological infrastructure for implementing these domains systematically within procurement and supply chain management operations.
 
 ## Reference Documentation
 

@@ -1,6 +1,6 @@
 ---
 title: Practical U.S. Application
-date: 2023-10-25
+date: 2026-05-30
 version: 1.0.0
 ---
 
