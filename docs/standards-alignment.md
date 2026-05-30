@@ -29,4 +29,3 @@ The CILM framework provides methodological infrastructure designed to align with
 *   **NIST SP 800-161r1:** The supply chain risk intelligence and supplier due diligence models support the cybersecurity supply chain risk management practices outlined by NIST.
 
 ---
-*Note: CILM is an independent methodology and is not affiliated with or endorsed by SAE, IEEE, NIST, or any U.S. government agency.*

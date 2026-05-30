@@ -28,4 +28,3 @@ The foundational specifications and architecture of the CILM framework are docum
 *   **Version 1.0.0:** Initial definition of the CILM architecture, establishing the core verification levels and risk intelligence models.
 
 ---
-*Note: CILM is an independent methodology and is not affiliated with or endorsed by SAE, IEEE, NIST, or any U.S. government agency.*

@@ -20,4 +20,3 @@ Alexander Litvin holds the following affiliations and focuses on these core area
 The framework represents a synthesis of extensive operational experience and analytical research in supply chain risk management within the electronic components sector.
 
 ---
-*Note: CILM is an independent methodology and is not affiliated with or endorsed by SAE, IEEE, NIST, or any U.S. government agency.*

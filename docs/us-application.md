@@ -20,4 +20,3 @@ The framework supports several key operational areas:
 These applications are designed to provide a methodical infrastructure for supply chain risk management within complex electronic component procurement environments.
 
 ---
-*Note: CILM is an independent methodology and is not affiliated with or endorsed by SAE, IEEE, NIST, or any U.S. government agency.*
