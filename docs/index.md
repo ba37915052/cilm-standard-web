@@ -4,6 +4,10 @@ date: 2026-05-30
 version: 1.0.0
 ---
 
+<div class="cilm-home-brand">
+  <img src="assets/images/cilm-logo-full-black.png" alt="CILM logo">
+</div>
+
 # Component Integrity & Lifecycle Management (CILM)
 
 The Component Integrity & Lifecycle Management (CILM) framework is an analytical and operational methodology designed for electronic component supply chain risk management, documentation integrity verification, counterfeit-risk mitigation, and lifecycle-level component verification.
@@ -20,5 +24,3 @@ The framework provides structured analytical models and operational workflows fo
 - **Documentation Integrity:** Verification protocols for procurement and lifecycle documentation.
 - **Counterfeit-Risk Mitigation:** Methodological guidelines for identifying and mitigating risks associated with anomalous electronic components.
 - **Verification Operations:** Structured approaches to lifecycle-level component verification.
-
----

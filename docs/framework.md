@@ -21,10 +21,8 @@ The framework provides a public technical repository and methodological infrastr
 
 ## Reference Documentation
 
-The foundational specifications and architecture of the CILM framework are documented and preserved under **Zenodo DOI: 10.5281/zenodo.19657865**. This reference serves as the primary technical definition of the methodology.
+The foundational specifications and architecture of the CILM framework are documented and preserved under **Zenodo DOI: [10.5281/zenodo.19657865](https://doi.org/10.5281/zenodo.19657865)**. This reference serves as the primary technical definition of the methodology.
 
 ## Version History
 
 *   **Version 1.0.0:** Initial definition of the CILM architecture, establishing the core verification levels and risk intelligence models.
-
----
