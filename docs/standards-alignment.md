@@ -27,3 +27,10 @@ The CILM framework provides methodological infrastructure designed to align with
 *   **SAE AS6081:** The framework supports the principles of fraudulent/counterfeit electronic parts avoidance, detection, mitigation, and disposition for distributors.
 *   **SAE AS6171:** The verification levels (L1-L3) are designed to provide operational workflows that align with the test methods and risk assessment criteria for suspect/counterfeit parts.
 *   **NIST SP 800-161r1:** The supply chain risk intelligence and supplier due diligence models support the cybersecurity supply chain risk management practices outlined by NIST.
+
+## Related resources
+
+*   [Framework Definition](framework.md)
+*   [Supply Chain Risk Intelligence](risk-intelligence.md)
+*   [Practical U.S. Application](us-application.md)
+*   [Data & Publications](data-and-publications.md)

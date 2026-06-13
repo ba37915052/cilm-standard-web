@@ -26,3 +26,11 @@ The foundational specifications and architecture of the CILM framework are docum
 ## Version History
 
 *   **Version 1.0.0:** Initial definition of the CILM architecture, establishing the core verification levels and risk intelligence models.
+*   **v1.9.x:** Subsequent refinements incorporating empirical validation via the CILM-IRI dataset (IEEE DataPort), culminating in the manuscript preprint referenced in Data & Publications.
+
+## Related resources
+
+*   [Supply Chain Risk Intelligence](risk-intelligence.md)
+*   [Standards Alignment](standards-alignment.md)
+*   [Practical U.S. Application](us-application.md)
+*   [Data & Publications](data-and-publications.md)

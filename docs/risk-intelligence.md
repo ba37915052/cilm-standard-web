@@ -18,3 +18,10 @@ The risk modeling framework is empirically supported by the **CILM-IRI dataset (
 The CILM framework utilizes the Component Intelligence Risk Score (CIRS) to quantify supplier and supply chain risk. CIRS is a 5-indicator weighted composite scoring framework, resulting in a risk index ranging from **0.00 to 1.00**.
 
 The analytical model integrates multiple dimensions of supplier performance and documentation integrity to generate a structured risk assessment.
+
+## Related resources
+
+*   [Framework Definition](framework.md)
+*   [Standards Alignment](standards-alignment.md)
+*   [Practical U.S. Application](us-application.md)
+*   [Data & Publications](data-and-publications.md)
