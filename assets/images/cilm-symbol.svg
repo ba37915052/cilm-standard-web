@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 200 220" role="img" aria-label="CILM shield circuit mark">
+  <!-- Shield outline — pointed bottom -->
+  <path d="M100 8 L178 36 L178 108 C178 158 142 188 100 204 C58 188 22 158 22 108 L22 36 Z"
+        fill="none" stroke="#0B2A4A" stroke-width="10" stroke-linejoin="round"/>
+
+  <!-- Center trace: up from base, bends left at midpoint, continues up -->
+  <path d="M104 194 L104 130 L92 118 L92 74"
+        stroke="#0B2A4A" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <!-- Center node top -->
+  <circle cx="92" cy="70" r="12" fill="#0B2A4A"/>
+  <circle cx="92" cy="70" r="5" fill="white"/>
+
+  <!-- Right branch: departs at 30% from bottom of center trace, diagonal right-up -->
+  <path d="M104 152 L122 132 L122 104"
+        stroke="#0B2A4A" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <!-- Right node — solid -->
+  <circle cx="122" cy="100" r="10" fill="#0B2A4A"/>
+
+  <!-- Left trace: separate, shorter, raised -->
+  <path d="M92 174 L92 144 L70 122 L70 96"
+        stroke="#0B2A4A" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <!-- Left node — solid -->
+  <circle cx="70" cy="92" r="10" fill="#0B2A4A"/>
+</svg>

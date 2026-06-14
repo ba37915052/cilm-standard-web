@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 680 520" role="img" aria-label="CILM shield circuit mark">
+
+  <!-- Light version: white shield, navy traces (for dark backgrounds) -->
+  <g id="badge-light">
+    <rect x="40" y="44" width="320" height="400" rx="16" fill="#0B2A4A"/>
+    <path d="M200 124 L270 150 L270 236 C270 272 238 298 200 328 C162 298 130 272 130 236 L130 150 Z" fill="white" stroke="white" stroke-width="1.5" stroke-linejoin="round"/>
+    <path d="M210 313 L210 240 L194 224 L194 166" stroke="#0B2A4A" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    <circle cx="194" cy="160" r="20" fill="#0B2A4A"/>
+    <circle cx="194" cy="160" r="8" fill="white"/>
+    <path d="M210 282 L234 258 L234 208" stroke="#0B2A4A" stroke-width="11" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    <circle cx="234" cy="200" r="16" fill="#0B2A4A"/>
+    <path d="M194 307 L194 263 L166 235 L166 199" stroke="#0B2A4A" stroke-width="11" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    <circle cx="166" cy="191" r="16" fill="#0B2A4A"/>
+  </g>
+
+  <!-- Dark version: outline shield, navy traces (for light backgrounds) -->
+  <g id="badge-dark">
+    <path d="M510 124 L580 150 L580 236 C580 272 548 298 510 328 C472 298 440 272 440 236 L440 150 Z" fill="none" stroke="#0B2A4A" stroke-width="7" stroke-linejoin="round"/>
+    <path d="M520 313 L520 240 L504 224 L504 166" stroke="#0B2A4A" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    <circle cx="504" cy="160" r="20" fill="#0B2A4A"/>
+    <circle cx="504" cy="160" r="8" fill="white"/>
+    <path d="M520 282 L544 258 L544 208" stroke="#0B2A4A" stroke-width="11" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    <circle cx="544" cy="200" r="16" fill="#0B2A4A"/>
+    <path d="M504 307 L504 263 L476 235 L476 199" stroke="#0B2A4A" stroke-width="11" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    <circle cx="476" cy="191" r="16" fill="#0B2A4A"/>
+  </g>
+
+  <!-- Favicon 32px version: outline style -->
+  <g id="badge-favicon">
+    <path d="M340 470 L351 474 L351 486 C351 493 346 497 340 499 C334 497 329 493 329 486 L329 474 Z" fill="none" stroke="#0B2A4A" stroke-width="1.8" stroke-linejoin="round"/>
+    <path d="M341.5 496 L341.5 483 L339 480 L339 473" stroke="#0B2A4A" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    <circle cx="339" cy="472" r="3" fill="#0B2A4A"/>
+    <circle cx="339" cy="472" r="1.2" fill="white"/>
+    <path d="M341.5 488 L345 485 L345 479" stroke="#0B2A4A" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    <circle cx="345" cy="478" r="2.2" fill="#0B2A4A"/>
+    <path d="M339 494 L339 489 L335 485 L335 480" stroke="#0B2A4A" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    <circle cx="335" cy="479" r="2.2" fill="#0B2A4A"/>
+  </g>
+
+</svg>
