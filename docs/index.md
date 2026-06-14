@@ -2,46 +2,62 @@
 title: Home
 date: 2026-06-14
 version: 1.0.0
+hide:
+  - navigation
+  - toc
 ---
 
-## An evidence-based framework for electronic component supply chain integrity
+<span class="cilm-eyebrow">Electronic Component Supply Chain</span>
 
-The Component Integrity & Lifecycle Management (CILM) framework provides structured analytical models and operational workflows for electronic component procurement risk assessment, documentation integrity verification, counterfeit-risk mitigation, and lifecycle-level component verification.
+<h1 class="cilm-hero-title">Risk-scoring methodology<br>for <em>counterfeit-resilient</em><br>procurement</h1>
 
-CILM is calibrated to publicly available trade intelligence (OECD GTRIC), defense audit evidence, and SAE AS6171 verification standards. All parameters and scoring logic are openly documented and reproducible.
+CILM provides a structured, auditable framework for component verification,
+documentation integrity, and supply chain risk intelligence — calibrated to
+OECD trade data and SAE AS6171.
 
 [Explore the framework](framework.md){ .md-button .md-button--primary }
 [View dataset — IEEE DataPort](https://doi.org/10.21227/34y3-zj88){ .md-button }
 
 ---
 
-## Four domains of application
+<div class="cilm-pillars">
+<div class="cilm-pillar">
 
-### Supply chain risk intelligence
+**:material-shield-check: Risk Intelligence**
 
-Systematic assessment of supplier and channel risk profiles using the Composite Integrity Risk Score (CIRS) — a five-parameter weighted composite scoring model normalized to [0, 1].
+Composite scoring across five weighted parameters — F, S, M, Q, G — normalized [0, 1].
 
 [Risk Intelligence →](risk-intelligence.md)
 
-### Documentation integrity
+</div>
+<div class="cilm-pillar">
 
-Verification protocols for procurement and lifecycle documentation, aligned with SAE AS6081 and AS6171 test hierarchy requirements.
+**:material-file-check: Documentation Integrity**
+
+Verification protocols for procurement and lifecycle documentation, aligned with SAE AS6171.
 
 [Standards Alignment →](standards-alignment.md)
 
-### Channel provenance
+</div>
+<div class="cilm-pillar">
 
-Structured differentiation between authorized distributor channels (AS6496, S = 0.05) and non-authorized or unknown-source channels (S = 0.80–1.00), with documented free-trade-zone routing amplification.
+**:material-transit-connection: Channel Provenance**
+
+Authorized vs. non-authorized channel risk — from AS6496 floor (S = 0.05) to unknown-source ceiling (S = 1.00).
 
 [Framework →](framework.md)
 
-### U.S. market application
+</div>
+<div class="cilm-pillar">
 
-Decision rules aligned with DFARS 252.246-7007 and FAR 52.246-26 procurement requirements, providing auditable justification for procurement risk categorization.
+**:material-earth: U.S. Application**
+
+Decision rules aligned with DFARS 252.246-7007 and FAR 52.246-26 procurement requirements.
 
 [U.S. Application →](us-application.md)
 
----
+</div>
+</div>
 
 ## Public research artifacts
 
