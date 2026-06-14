@@ -9,7 +9,6 @@ theme:
     - scheme: default
       primary: custom
       accent: custom
-  custom_dir: docs/stylesheets
   features:
     - navigation.tabs
     - navigation.sections
