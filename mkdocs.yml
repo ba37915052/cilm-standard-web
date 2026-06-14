@@ -3,7 +3,7 @@ site_url: https://cilm-standard.com/
 theme:
   name: material
   logo: assets/images/cilm-mark-white.png
-  favicon: assets/images/favicon.svg
+  favicon: assets/images/favicon.png
   palette:
     - scheme: default
       primary: custom
