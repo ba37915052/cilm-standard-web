@@ -28,9 +28,12 @@ markdown_extensions:
 
 nav:
   - Home: index.md
+  - Context:
+      - Industry Problem: industry-context.md
   - Framework: framework.md
   - Standards Alignment: standards-alignment.md
   - Risk Intelligence: risk-intelligence.md
   - U.S. Application: us-application.md
   - Data & Publications: data-and-publications.md
   - About: about.md
+  - Recognition: recognition.md
