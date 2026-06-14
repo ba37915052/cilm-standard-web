@@ -6,8 +6,10 @@ theme:
   logo: assets/images/cilm-mark-white.png
   favicon: assets/images/favicon.png
   palette:
-    primary: slate
-    accent: blue
+    - scheme: default
+      primary: custom
+      accent: custom
+  custom_dir: docs/stylesheets
   features:
     - navigation.tabs
     - navigation.sections
