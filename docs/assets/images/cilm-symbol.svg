@@ -1,18 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
-  <title id="title">CILM symbol</title>
-  <desc id="desc">Shield-shaped electronic component integrity mark with circuit traces and nodes.</desc>
-  <defs>
-    <linearGradient id="cilmNavy" x1="10" y1="6" x2="56" y2="60" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#123D72"/>
-      <stop offset="1" stop-color="#0B2A4A"/>
-    </linearGradient>
-  </defs>
-  <path d="M32 5.5 54 14.2v15.4c0 13.5-9.1 24.3-22 29-12.9-4.7-22-15.5-22-29V14.2L32 5.5Z" fill="none" stroke="url(#cilmNavy)" stroke-width="4" stroke-linejoin="round"/>
-  <path d="M32 52V19" fill="none" stroke="#0B2A4A" stroke-width="3.4" stroke-linecap="round"/>
-  <circle cx="32" cy="17" r="5.2" fill="#F8FBFF" stroke="#0B2A4A" stroke-width="3"/>
-  <path d="M21 50V35.5l-7.2-6.2" fill="none" stroke="#0B2A4A" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"/>
-  <circle cx="13" cy="28.5" r="4.4" fill="#F8FBFF" stroke="#0B2A4A" stroke-width="3"/>
-  <path d="M43 50V35.5l7.2-6.2" fill="none" stroke="#0B2A4A" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"/>
-  <circle cx="51" cy="28.5" r="4.4" fill="#F8FBFF" stroke="#0B2A4A" stroke-width="3"/>
-  <path d="M17 21h-6M17 29h-6M47 21h6M47 29h6" fill="none" stroke="#1E3A8A" stroke-width="2.5" stroke-linecap="round" opacity=".8"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 200 220" role="img" aria-label="CILM shield circuit mark">
+  <!-- Shield outline — pointed bottom -->
+  <path d="M100 8 L178 36 L178 108 C178 158 142 188 100 204 C58 188 22 158 22 108 L22 36 Z"
+        fill="none" stroke="#0B2A4A" stroke-width="10" stroke-linejoin="round"/>
+
+  <!-- Center trace: up from base, bends left at midpoint, continues up -->
+  <path d="M104 194 L104 130 L92 118 L92 74"
+        stroke="#0B2A4A" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <!-- Center node top -->
+  <circle cx="92" cy="70" r="12" fill="#0B2A4A"/>
+  <circle cx="92" cy="70" r="5" fill="white"/>
+
+  <!-- Right branch: departs at 30% from bottom of center trace, diagonal right-up -->
+  <path d="M104 152 L122 132 L122 104"
+        stroke="#0B2A4A" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <!-- Right node — solid -->
+  <circle cx="122" cy="100" r="10" fill="#0B2A4A"/>
+
+  <!-- Left trace: separate, shorter, raised -->
+  <path d="M92 174 L92 144 L70 122 L70 96"
+        stroke="#0B2A4A" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <!-- Left node — solid -->
+  <circle cx="70" cy="92" r="10" fill="#0B2A4A"/>
 </svg>
