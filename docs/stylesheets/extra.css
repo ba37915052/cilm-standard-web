@@ -1,0 +1,74 @@
+:root {
+  --md-primary-fg-color: #1e3a8a;
+  --md-primary-fg-color--light: #2d4fa8;
+  --md-primary-fg-color--dark: #152d6e;
+  --md-accent-fg-color: #1e3a8a;
+}
+
+.md-header {
+  background-color: #1e3a8a;
+}
+
+.cilm-eyebrow {
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+  color: #1e3a8a;
+  margin-bottom: 0.5rem;
+  display: block;
+}
+
+.cilm-hero-title {
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.15;
+  letter-spacing: -.02em;
+  margin: 0.5rem 0 1.25rem;
+}
+
+.cilm-hero-title em {
+  font-style: normal;
+  color: #1e3a8a;
+}
+
+.cilm-pillars {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  overflow: hidden;
+  margin: 2rem 0;
+}
+
+.cilm-pillar {
+  padding: 1.5rem;
+  border-right: 1px solid #e0e0e0;
+}
+
+.cilm-pillar:last-child {
+  border-right: none;
+}
+
+.cilm-pillar-title {
+  font-size: 0.9rem;
+  font-weight: 700;
+  margin: 0 0 0.5rem 0;
+}
+
+.cilm-pillar p {
+  font-size: 0.82rem;
+  line-height: 1.6;
+  margin: 0 0 0.5rem 0;
+  color: #555;
+}
+
+@media (max-width: 768px) {
+  .cilm-pillars {
+    grid-template-columns: 1fr 1fr;
+  }
+  .cilm-pillar {
+    border-right: none;
+    border-bottom: 1px solid #e0e0e0;
+  }
+}
