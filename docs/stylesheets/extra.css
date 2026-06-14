@@ -4,11 +4,9 @@
   --md-primary-fg-color--dark: #152d6e;
   --md-accent-fg-color: #1e3a8a;
 }
-
 .md-header {
   background-color: #1e3a8a;
 }
-
 .cilm-eyebrow {
   font-size: 11px;
   font-weight: 600;
@@ -18,7 +16,6 @@
   margin-bottom: 0.5rem;
   display: block;
 }
-
 .cilm-hero-title {
   font-size: 2.4rem;
   font-weight: 700;
@@ -27,12 +24,10 @@
   margin: 0.5rem 0 1.25rem;
   color: var(--md-default-fg-color);
 }
-
 .cilm-hero-title em {
   font-style: normal;
   color: #1e3a8a;
 }
-
 .cilm-pillars {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
@@ -41,30 +36,25 @@
   overflow: hidden;
   margin: 2rem 0;
 }
-
 .cilm-pillar {
   padding: 1.5rem;
   border-right: 0.5px solid var(--md-default-fg-color--lightest, #e0e0e0);
 }
-
 .cilm-pillar:last-child {
   border-right: none;
 }
-
 .cilm-pillar h3 {
   font-size: 0.85rem;
   font-weight: 600;
   margin: 0.75rem 0 0.5rem;
   color: var(--md-default-fg-color);
 }
-
 .cilm-pillar p {
   font-size: 0.8rem;
   line-height: 1.6;
   color: var(--md-default-fg-color--light);
   margin: 0;
 }
-
 @media (max-width: 768px) {
   .cilm-pillars {
     grid-template-columns: 1fr 1fr;
@@ -82,12 +72,15 @@
 .md-breadcrumb {
   display: none !important;
 }
-
 .md-main__inner {
   margin-top: 0 !important;
 }
-
 .md-content {
   max-width: 100% !important;
   padding: 0 !important;
+}
+/* Hide MkDocs breadcrumb nav and footer */
+.md-content__inner > nav,
+.md-footer {
+  display: none !important;
 }
