@@ -1,6 +1,6 @@
 ---
 title: Data & Publications
-date: 2026-05-30
+date: 2026-06-14
 version: 1.0.0
 ---
 
@@ -19,12 +19,12 @@ This page serves as a technical reference index for CILM-related public material
 
 ## Methodological Article / Preprint
 
-*   **Title:** [PLACEHOLDER — manuscript title]
+*   **Title:** CIRS: An Engineering Decision Framework for Counterfeit Risk Scoring in Electronic Component Supply Chains
 *   **Author:** Alexander Litvin, Senior Member, IEEE
 *   **Version:** v1.9.2 (preprint)
 *   **Status:** "Preprint prepared for submission to IEEE Access"
-*   **DOI / repository link:** [PLACEHOLDER]
-*   **PDF download link:** [PLACEHOLDER]
+*   **DOI / repository link:** To be assigned upon preprint publication. Manuscript PDF available for download below.
+*   **PDF download link:** [Download preprint PDF (v1.9.2)](/assets/papers/CIRS_Preprint_v1.9.2.pdf)
 
 !!! warning "Author preprint. Not peer reviewed."
     This manuscript is a preprint and has not yet been peer reviewed. It is provided to document the methodological development of the CILM framework, the CIRS scoring model, and the empirical use of the CILM-IRI dataset. The manuscript is not affiliated with, endorsed by, or approved by IEEE.
