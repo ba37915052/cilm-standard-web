@@ -24,7 +24,7 @@ This page serves as a technical reference index for CILM-related public material
 *   **Version:** v1.9.2 (preprint)
 *   **Status:** "Preprint prepared for submission to IEEE Access"
 *   **DOI / repository link:** To be assigned upon preprint publication. Manuscript PDF available for download below.
-*   **PDF download link:** [Download preprint PDF (v1.9.2)](/assets/papers/CIRS_Preprint_v1.9.2.pdf)
+*   **PDF download link:** [Download preprint PDF (v1.9.2)](assets/papers/CIRS_Preprint_v1.9.2.pdf)
 
 !!! warning "Author preprint. Not peer reviewed."
     This manuscript is a preprint and has not yet been peer reviewed. It is provided to document the methodological development of the CILM framework, the CIRS scoring model, and the empirical use of the CILM-IRI dataset. The manuscript is not affiliated with, endorsed by, or approved by IEEE.
