@@ -1,6 +1,5 @@
 site_name: Component Integrity & Lifecycle Management (CILM)
 site_url: https://cilm-standard.com/
-
 theme:
   name: material
   logo: assets/images/cilm-mark-white.png
@@ -13,20 +12,17 @@ theme:
     - navigation.tabs
     - navigation.sections
     - toc.integrate
-
 extra_css:
   - stylesheets/extra.css
-
+  - stylesheets/cilm-home.css
 copyright: >
   CILM is an independent methodology and is not affiliated with or endorsed by SAE, IEEE, NIST, or any U.S. government agency.
-
 markdown_extensions:
   - meta
   - toc:
       permalink: true
   - attr_list
   - md_in_html
-
 nav:
   - Home: index.md
   - Context:
