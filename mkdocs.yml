@@ -4,7 +4,7 @@ site_url: https://cilm-standard.com/
 theme:
   name: material
   logo: assets/images/cilm-mark-white.png
-  favicon: assets/images/favicon.svg
+  favicon: assets/images/favicon.png
   palette:
     - scheme: default
       primary: custom
@@ -16,7 +16,6 @@ theme:
 
 extra_css:
   - stylesheets/extra.css
-  - stylesheets/cilm-home.css
 
 copyright: >
   CILM is an independent methodology and is not affiliated with or endorsed by SAE, IEEE, NIST, or any U.S. government agency.
