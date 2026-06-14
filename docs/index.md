@@ -21,9 +21,6 @@ OECD trade data and SAE AS6171.
 ---
 
 <div class="cilm-pillars">
-<div class="cilm-pillar">
-
-<div class="cilm-pillars">
   <div class="cilm-pillar">
     <p class="cilm-pillar-title">Risk Intelligence</p>
     <p>Composite scoring across five weighted parameters — F, S, M, Q, G — normalized [0, 1].</p>
@@ -44,34 +41,6 @@ OECD trade data and SAE AS6171.
     <p>Decision rules aligned with DFARS 252.246-7007 and FAR 52.246-26 procurement requirements.</p>
     <p><a href="us-application/">U.S. Application →</a></p>
   </div>
-</div>
-<div class="cilm-pillar">
-
-**:material-file-check: Documentation Integrity**
-
-Verification protocols for procurement and lifecycle documentation, aligned with SAE AS6171.
-
-[Standards Alignment →](standards-alignment.md)
-
-</div>
-<div class="cilm-pillar">
-
-**:material-transit-connection: Channel Provenance**
-
-Authorized vs. non-authorized channel risk — from AS6496 floor (S = 0.05) to unknown-source ceiling (S = 1.00).
-
-[Framework →](framework.md)
-
-</div>
-<div class="cilm-pillar">
-
-**:material-earth: U.S. Application**
-
-Decision rules aligned with DFARS 252.246-7007 and FAR 52.246-26 procurement requirements.
-
-[U.S. Application →](us-application.md)
-
-</div>
 </div>
 
 ## Public research artifacts
