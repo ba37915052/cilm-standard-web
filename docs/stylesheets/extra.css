@@ -84,3 +84,7 @@
 .md-footer {
   display: none !important;
 }
+.md-content__inner > .md-typeset nav[aria-label="Breadcrumb"],
+.md-content__inner > p:first-child:empty {
+  display: none !important;
+}
