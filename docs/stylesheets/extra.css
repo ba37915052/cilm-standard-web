@@ -25,6 +25,7 @@
   line-height: 1.15;
   letter-spacing: -.02em;
   margin: 0.5rem 0 1.25rem;
+  color: var(--md-default-fg-color);
 }
 
 .cilm-hero-title em {
@@ -35,7 +36,7 @@
 .cilm-pillars {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
-  border: 1px solid #e0e0e0;
+  border: 0.5px solid var(--md-default-fg-color--lightest, #e0e0e0);
   border-radius: 8px;
   overflow: hidden;
   margin: 2rem 0;
@@ -43,32 +44,35 @@
 
 .cilm-pillar {
   padding: 1.5rem;
-  border-right: 1px solid #e0e0e0;
+  border-right: 0.5px solid var(--md-default-fg-color--lightest, #e0e0e0);
 }
 
 .cilm-pillar:last-child {
   border-right: none;
 }
 
-.cilm-pillar-title {
-  font-size: 0.9rem;
-  font-weight: 700;
-  margin: 0 0 0.5rem 0;
+.cilm-pillar h3 {
+  font-size: 0.85rem;
+  font-weight: 600;
+  margin: 0.75rem 0 0.5rem;
+  color: var(--md-default-fg-color);
 }
 
 .cilm-pillar p {
-  font-size: 0.82rem;
+  font-size: 0.8rem;
   line-height: 1.6;
-  margin: 0 0 0.5rem 0;
-  color: #555;
+  color: var(--md-default-fg-color--light);
+  margin: 0;
 }
 
 @media (max-width: 768px) {
   .cilm-pillars {
     grid-template-columns: 1fr 1fr;
   }
-  .cilm-pillar {
+  .cilm-pillar:nth-child(2) {
     border-right: none;
-    border-bottom: 1px solid #e0e0e0;
+  }
+  .cilm-pillar {
+    border-bottom: 0.5px solid var(--md-default-fg-color--lightest, #e0e0e0);
   }
 }
