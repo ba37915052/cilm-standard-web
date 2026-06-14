@@ -9,11 +9,11 @@ hide:
 
 <span class="cilm-eyebrow">Electronic Component Supply Chain</span>
 
-<h1 class="cilm-hero-title">Risk-scoring methodology<br>for <em>counterfeit-resilient</em><br>procurement</h1>
+<h1 class="cilm-hero-title">Risk-scoring methodology<br>for <em>counterfeit-resilient</em><br>component procurement</h1>
 
-CILM provides a structured, auditable framework for component verification,
-documentation integrity, and supply chain risk intelligence — calibrated to
-OECD trade data and SAE AS6171.
+CILM provides a structured, auditable methodology for component verification,
+documentation integrity, and supply-chain risk intelligence — informed by
+OECD counterfeit-trade context and aligned with SAE AS6171 verification logic.
 
 [Explore the framework](framework.md){ .md-button .md-button--primary }
 [View dataset — IEEE DataPort](https://doi.org/10.21227/34y3-zj88){ .md-button }
@@ -57,7 +57,7 @@ OECD trade data and SAE AS6171.
     </div>
     <div>
       <p style="font-size:12px;font-weight:600;color:#111;margin:0 0 4px;">U.S. Application</p>
-      <p style="font-size:11px;color:#555;line-height:1.55;margin:0 0 6px;">Decision rules for DFARS-relevant procurement. Auditable risk documentation at the procurement decision point.</p>
+      <p style="font-size:11px;color:#555;line-height:1.55;margin:0 0 6px;">Decision rules for risk-based procurement documentation in U.S. high-reliability supply-chain environments. Auditable at the procurement decision point.</p>
       <a href="us-application/" style="font-size:11px;color:#1e3a8a;">U.S. Application →</a>
     </div>
   </div>
